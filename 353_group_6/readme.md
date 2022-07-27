@@ -6,9 +6,13 @@ The [OpenStreetMap](https://www.openstreetmap.org/) project collects community-p
 
 The OSM data set has a huge collection of things you might have seen while walking around the city: [Canada Place](https://www.openstreetmap.org/way/223635729), [The Steam Clock](https://www.openstreetmap.org/node/703754423), [a bench](https://www.openstreetmap.org/node/3789883495), etc. Maybe you have walked by these and not even noticed. Wouldn't it be nice if they were pointed out to you?
 
-We have previously worked with GPX data: the file produced by fitness trackers, GPS systems, or anything else that tracks movements with [GPS](https://en.wikipedia.org/wiki/Global_Positioning_System) signals (or related technology). The problem with GPX is that you have to create it. You are more likely to naturally find geographic information in photographs: [Exif data in JPEG images](https://en.wikipedia.org/wiki/Exif) can contain latitude and longitude data as well and most phones automatically add it
+We have previously worked with GPX data: the file produced by fitness trackers, GPS systems, or anything else that tracks movements with [GPS](https://en.wikipedia.org/wiki/Global_Positioning_System) signals (or related technology). The problem with GPX is that you have to create it. You are more likely to find geographic information in photographs naturally: [Exif data in JPEG images](https://en.wikipedia.org/wiki/Exif) can contain latitude and longitude data as well, and most phones automatically add it.
 
-The challenge: take a collection of geotagged photos representing my walk/tour/vacation, give me a tour of the things I *should* have seen, or try to guess what is in the photos.
+The challenge:
+
+- Take a collection of geotagged photos representing my walk/tour/vacation.
+- Give me a tour of the things I *should* have seen.
+- Try to guess what is in the photos.
 
 ## Provided Data
 
