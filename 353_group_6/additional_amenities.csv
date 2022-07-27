@@ -1,0 +1,184 @@
+lat,lon,amenity,name
+49.2834,-123.118,shopping_centre,Pacific Centre
+49.2265,-123,shopping_centre,Metropolis at Metrotown
+49.3,-123.14,park,Stanley Park
+49.271389,-123.135,public market,Granville Island Public Market
+49.269167,-123.259722,museum,Museum of Anthropology
+49.2739,-123.155,beach,Kitsilano Beach
+49.286944,-123.128611,shopping_centre,Robson St
+49.2761,-123.144,museum,Museum of Vancouver
+49.2422,-123.115,park,Queen Elizabeth Park
+49.2733,-123.104,museum,Science World
+49.2636,-123.2514,museum,Beaty Biodiversity Museum 
+49.3103,-123.0809,arts_centre,The Polygon Gallery
+49.2829,-123.12,arts_centre,Vancouver Art Gallery
+49.2669,-123.1255,park,Charleson Park
+49.25,-123.21,park,Pacific Spirit Regional Park
+49.261111,-123.253056,university,UBC
+49.278889,-122.916111,university,SFU
+49.2778,-123.143,park,Vanier Park
+49.2775,-123.147,museum,Vancouver Maritime Museum
+49.266667,-123.259722,park,Nitobe Memorial Garden
+49.239722,-123.132222,park,Vandusen Botanical Garden
+49.3006,-123.131,aquarium,Vancouver Aquarium
+49.28696,-123.14352,beach,English Bay Beach
+49.272,-123.192,beach,Jericho Beach
+49.29462,-123.1503,beach,Second Beach
+49.2611,-123.2614,beach,Wreck Beach
+49.30355,-123.15674,beach,Third Beach
+49.27553,-123.20596,beach,Locarno Beach
+49.27986,-123.13861,beach,Sunset Beach
+49.35583,-123.01389,lake,Rice Lake
+49.3228,-122.889,lake,Sasamat Lake
+49.37583,-123.25917,lake,Whyte Lake
+49.242428,-122.946067,park,Burnaby Lake Regional Park
+49.349,-122.86,lake,Buntzen Lake
+49.243056,-122.946111,lake,Burnaby Lake
+49.227071,-123.078208,park,Central Park
+49.287222,-122.985278,park,Confederation Park
+49.232,-123.119,shopping_centre,Pakridge Centre
+49.28,-123.099444,shopping_centre,China Town
+49.310434,-123.082778,shopping_centre,Lonsdale Quay Market
+49.2257,-123.1016,shopping_centre,Punjabi Market
+49.29194623,-122.7843819,park,Town Centre Park
+49.364518,-122.5075539,park,Golden Ears
+49.25489482,-122.3754214,park,Rolley Falls
+49.16874379,-123.1442298,park,Minoru Lakes
+49.16891171,-123.1501843,park,Brighouse Neighbourhood School Park
+49.19782849,-123.1410185,shopping_centre,Designer Outlet Vancouver
+49.26280199,-123.2619057,park,Wreck Beach
+49.16690367,-123.1388468,shopping_centre,Richmond Centre
+49.18856774,-122.9916946,park,Burnaby Fraser Foreshore Park
+49.37089419,-123.0985098,park,Grouse Mountain
+49.35448339,-123.1775462,park,Highview Lookout
+49.35323762,-123.2415228,park,Cypress Falls Park
+49.33272945,-123.2635475,park,Lighthouse Park
+49.17420036,-123.9385109,park,Maffeo Sutton Park
+48.79281689,-123.5131431,park,Burgoyne Bay Provincial Park
+48.63319113,-123.4646859,park,Coles Bay Regional Park
+48.41049974,-123.3412758,park,Ross Bay Public Pebbles Beach
+49.0394593,-119.4647529,park,Lions Park
+49.06507513,-120.781454,park,Manning Park
+49.22873849,-122.8366005,casino,Hard Rock Casino Vancouver
+49.18655855,-122.956116,casino,Starlight Casino New Westminster
+49.286603,-123.113122,bus_station,Waterfront
+49.285628,-123.119346,bus_station,Burrard Expo Line Station
+49.285139,-123.114206,bus_station,Waterfront Station Canada Line
+49.28317,-123.115675,bus_station,Granville Expo Line Station
+49.279293,-123.109171,bus_station,Stadium-Chinatown Expo Line Station
+49.273072,-123.100189,bus_station,Main Street-Science World Station
+49.265767,-123.078798,bus_station,VCC-Clark 
+49.262418,-123.068793,bus_station,Commercial-Broadway Station
+49.248243,-123.05572,bus_station,Nanaimo Expo Line Station
+49.244203,-123.045944,bus_station, 29th Avenue Station
+49.238405,-123.031806,bus_station,Joyce-Collingwood
+49.229426,-123.012448,bus_station,Patterson Station
+49.286603,-123.113122,bus_station,Waterfront West Coast Express Station
+49.282462,-123.118283,bus_station, Vancouver City Centre Station
+49.274467,-123.122124,bus_station,Yaletown-Roundhouse Station 
+49.26657,-123.114801,bus_station,Olympic Village Canada Line Station
+49.285131,-123.115432,bus_station,Westbound W Pender St @ Howe St
+49.28503614,-123.11145,bus_station,Waterfront Station/False Creek South
+49.285553,-123.11335,bus_station, Northbound Granville St @ W Hastings St
+49.285445,-123.11425,bus_station, Eastbound W Hastings St @ Granville St
+49.285242,-123.113584,bus_station, Westbound W Hastings St @ Granville St
+49.285523,-123.116055,bus_station,Westbound W Pender St @ Howe St
+49.284791,-123.115231,bus_station,Eastbound W Pender St @ Granville St
+49.284493,-123.114994,bus_station, Northbound Granville St @ W Pender St
+49.284039,-123.115939,bus_station,Southbound Granville St @ W Pender St
+49.285048,-123.116344,bus_station, Southbound Howe St @ W Pender St
+49.280475,-122.954024,bus_station,Westbound Hastings St @ Duthie Ave
+49.280464,-122.970602,bus_station,Westbound Hastings St @ Kensington Ave
+49.280436,-122.98142,bus_station,Westbound Hastings St @ Holdom Ave
+49.28024,-122.991013,bus_station,Westbound Hastings St @ Hythe Ave
+49.281119,-123.003957,bus_station,Westbound Hastings St @ Willingdon Ave
+49.280953,-123.013446,bus_station,Eastbound Hastings St @ Gilmore Ave
+49.281229,-123.044631,bus_station,Westbound E Hastings St @ Renfrew St
+49.281242,-123.057254,bus_station,Westbound E Hastings St @ Nanaimo St
+49.281362,-123.071174,bus_station,Westbound E Hastings St @ Commercial Dr
+49.28144,-123.1003,bus_station,Westbound E Hastings St @ Main St
+49.281983,-123.10758,bus_station,Westbound W Hastings St @ Abbott St
+49.285445,-123.0511425,bus_station,Westbound W Hastings St @ Granville St
+49.287084,-123.141411,bus_station,Eastbound Davie St @ Denman St
+49.287773,-123.141166,bus_station,Southbound Denman St @ Pendrell St
+49.288522,-123.140021,bus_station,Southbound Denman St @ Comox St
+49.289924,-123.137908,bus_station,Southbound Denman St @ Barclay St
+49.29124,-123.135926,bus_station,Southbound Denman St @ Robson St
+49.289693,-123.132542,bus_station,Westbound Robson St @ Cardero St
+49.288152,-123.130152,bus_station,Westbound Robson St @ Broughton St
+49.286249,-123.127216,bus_station,Westbound Robson St @ Bute St
+49.283556,-123.123086,bus_station,Westbound Robson St @ Burrard St
+49.285523,-123.116055,bus_station,Westbound W Pender St @ Howe St
+49.284575,-123.114596,bus_station,Westbound W Pender St @ Granville St
+49.283818,-123.113429,bus_station,Westbound W Pender St @ Richards St
+49.284435,-123.112367,bus_station,Southbound Richards St @ W Hastings St
+49.279581,-123.106439,bus_station,Eastbound Keefer Place @ Taylor St
+49.28129,-123.108213,bus_station,Southbound Abbott St @ W Pender St
+49.282211,-123.109799,bus_station,Southbound Cambie St @ W Hastings St
+49.283765,-123.109649,bus_station,Eastbound W Cordova St @ Homer St
+49.285553,-123.11335,bus_station,Northbound Granville St @ W Hastings St
+49.284493,-123.114994,bus_station,Northbound Granville St @ W Pender St
+49.282352,-123.118143,bus_station,Northbound Granville St @ W Georgia St
+49.280784,-123.120537,bus_station,Northbound Granville St @ Smithe St
+49.279628,-123.122294,bus_station,Northbound Granville St @ Nelson St
+49.277584,-123.125372,bus_station,Northbound Granville St @ Davie St
+49.276487,-123.127092,bus_station,Northbound Granville St @ Drake St
+49.266843,-123.137905,bus_station,Westbound W 5th Ave @ Granville St
+49.268039,-123.141569,bus_station,Eastbound W 4th Ave @ Fir St
+49.269373,-123.140897,bus_station,Southbound Fir St @ W 2nd Ave
+49.26952,-123.138092,bus_station,Westbound W 2nd Ave @ Anderson St
+49.267336,-123.134423,bus_station,Westbound Lameys Mill Rd @ 1300 Block
+49.266831,-123.132521,bus_station,Westbound Lameys Mill Rd @ Alder Crossing
+49.26632,-123.128703,bus_station,Westbound Lameys Mill Rd @ Sitka Square
+49.265832,-123.120144,bus_station,Eastbound W 6th Ave @ Heather St
+49.266015,-123.117968,bus_station,Westbound W 6th Ave @ Ash St
+49.374277,-123.272695,bus_station,Horseshoe Bay Exchange
+49.37515,-123.27689,bus_station,Southbound Nelson Ave @ Bay St
+49.370244,-123.279363,bus_station,Southbound Nelson Ave @ 6400 Block
+49.207893,-122.998827,bus_station,Eastbound Marine Dr @ Nelson Ave
+49.36867,-123.27637,bus_station,Southbound Marine Dr @ 6300 Block
+49.36716,-123.276802,bus_station,Southbound Marine Dr @ Horseshoe Bay Park & Ride
+49.363028,-123.277509,bus_station,Southbound Marine Dr @ Orchill Rd
+49.211508,-123.091218,bus_station,Southbound Fraser St @ E 65 Ave
+49.212749,-123.091181,bus_station,Southbound Fraser St @ E 63 Ave
+49.214571,-123.091155,bus_station,Southbound Fraser St @ E 61 Ave
+49.216234,-123.091124,bus_station,Southbound Fraser St @ E 59 Ave
+49.217937,-123.091092,bus_station,Southbound Fraser St @ E 57 Ave
+49.219642,-123.091056,bus_station,Southbound Fraser St @ E 55 Ave
+49.22148,-123.091,bus_station,Southbound Fraser St @ E 53 Ave
+49.223292,-123.090958,bus_station,Southbound Fraser St @ E 51 Ave
+49.225766,-123.090643,bus_station,Southbound Fraser St @ E 49 Ave
+49.227632,-123.090596,bus_station,Southbound Fraser St @ E 47 Ave
+49.229442,-123.090556,bus_station,Southbound Fraser St @ E 45 Ave
+49.231265,-123.0905,bus_station,Southbound Fraser St @ E 43 Ave
+49.233627,-123.090406,bus_station,Southbound Fraser St @ E 41 Ave
+49.328615,-123.054317,bus_station,Southbound Boulevard Cres @ Sutherland Ave
+49.333907,-123.044317,bus_station,Westbound Lynn Valley Rd @ Fromme Rd
+49.331956,-123.048003,bus_station,Westbound Lynn Valley Rd @ Mollie Nye Way
+49.330747,-123.050277,bus_station,Westbound Lynn Valley Rd @ William Ave
+49.328615,-123.054317,bus_station,Southbound Boulevard Cres @ Sutherland Ave
+49.325776,-123.056353,bus_station,Southbound Grand Blvd East @ E 19 St
+49.323724,-123.056406,bus_station,Southbound Grand Blvd East @ E 17 St
+49.322113,-123.056272,bus_station,Westbound E 15 St @ Grand Blvd East
+49.321997,-123.060368,bus_station,Westbound E 15 St @ Moody Ave
+49.322028,-123.063435,bus_station,Westbound E 15 St @ Ridgeway Ave
+49.322067,-123.066512,bus_station,Westbound E 15 St @ St. Andrews Ave
+49.322138,-123.072934,bus_station,Westbound W 15 St @ Lonsdale Ave
+49.322167,-123.075947,bus_station,Westbound W 15 St @ Chesterfield Ave
+49.322197,-123.079052,bus_station,Westbound W 15 St @ Mahon Ave
+49.321847,-123.081783,bus_station,Southbound Jones Ave @ W 15 St
+49.320339,-123.081636,bus_station,Southbound Jones Ave @ W Keith Rd
+49.320182,-123.085235,bus_station,Westbound W Keith Rd @ Forbes Ave
+49.3199,-123.087019,bus_station,Westbound W Keith Rd @ Delbruck Ave
+49.320065,-123.091862,bus_station,Westbound Marine Dr @ Bewicke Ave
+49.321749,-123.09659,bus_station,Westbound Marine Dr @ Fell Ave
+49.322589,-123.099039,bus_station,Westbound Marine Dr @ Hanes Ave
+49.323076,-123.0996,bus_station,Westbound Marine Dr @ Hamilton Ave
+49.323913,-123.103303,bus_station,Westbound Marine Dr @ Mackay Ave
+49.32375,-123.105298,bus_station,Westbound Marine Dr @ Lloyd Ave
+49.323956,-123.108455,bus_station,Westbound Marine Dr @ Pemberton Ave
+49.323979,-123.11116,bus_station,Westbound Marine Dr @ Bridgman Ave
+49.323999,-123.11389,bus_station,Westbound Marine Dr @ Philip Ave
+49.324013,-123.116614,bus_station,Westbound Marine Dr @ Bowser Ave
+49.324043,-123.120746,bus_station,Westbound Marine Dr @ McGuire Ave
+49.324577,-123.122926,bus_station,Westbound Marine Dr @ Capilano Rd
